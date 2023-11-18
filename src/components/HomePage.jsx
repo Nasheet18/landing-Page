@@ -1,9 +1,9 @@
 import React from 'react'
-import canva from '../assets/Images/canva.jpg'
+import canva from '../assets/images/canva.jpg'
 import cottonbro from '../assets/images/cottonbro.jpg'
 import studio from '../assets/images/studio.jpg'
 import thirdman from '../assets/images/thirdman.jpg'
-import Navbar from './Navbar'
+
 
 function HomePage() {
   return (
